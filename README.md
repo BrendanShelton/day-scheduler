@@ -2,7 +2,7 @@
 A website which allows the user to record a day's schedule
 ## Description
 
-This application displays eight time blocks for the hours in a work day and uses Javascript, jQuery, and Moment.js to change their backgound colors to show which hours are past, present, and future. The user can enter text into each block and save it to the local storage. The current date is displayed at the top under the heading
+This application displays eight time blocks for the hours in a work day and uses Javascript, jQuery, and Moment.js to change their backgound colors to show which hours are past, present, and future. The user can enter text into each block and save it to the local storage. The current date is displayed at the top under the heading.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Click on the "save" button to the right of the time block after entering text into it to save that text in local storage. Time blocks corresponding to past hours have a gray background. The one representing the present hour is red and future ones are green 
+Click on the "save" button to the right of the time block after entering text into it to save that text in local storage. Time blocks corresponding to past hours have a gray background. The one representing the present hour is red and future ones are green.
 
 https://brendanshelton.github.io/day-scheduler/
 
