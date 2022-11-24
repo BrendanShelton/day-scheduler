@@ -16,6 +16,10 @@ https://brendanshelton.github.io/day-scheduler/
 
 ![screenshot of website](schedulerScreenshot.PNG)
 
+## Technologies used
+
+HTML, CSS, Javascript, jQuery, and Moment.js
+
 ## Credits
 
 N/A
